@@ -1,3 +1,5 @@
+# Andres Parra Garzon - https://github.com/byandrev
+
 from fractions import Fraction
 
 def solve(inp):
